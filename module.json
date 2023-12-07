@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "auto-beer",
+    "author": "FrostSigil",
+    "description": "Auto use beer in boost.",
+    "options": {
+        "niceName": "Auto Beer",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/auto-beer/master/"]
+}
