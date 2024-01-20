@@ -2,9 +2,12 @@
     "disableAutoUpdate": false,
     "name": "auto-beer",
     "author": "FrostSigil",
-    "description": "Auto use beer in boost.",
+    "description": "Auto use beer in boost or use skill.",
     "options": {
         "niceName": "Auto Beer",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
         "reloadable": true
     },
     "servers": ["https://raw.githubusercontent.com/FrostSigil/auto-beer/master/"]
