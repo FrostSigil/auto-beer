@@ -5,7 +5,7 @@
     "description": "Auto use beer in boost or use skill.",
     "options": {
         "niceName": "Auto Beer",
-        "settingsVersion": 1,
+        "settingsVersion": 2,
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js",
         "reloadable": true
